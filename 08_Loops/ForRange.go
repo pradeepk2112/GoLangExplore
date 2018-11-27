@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func ForRange() {
 
 	services := map[int]string{1: "Catalog", 2: "Fulfillment", 3: "Pricing", 4: "Configurator", 5: "ShoppingCart", 6: "Payment"}
 
